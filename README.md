@@ -1,1 +1,2 @@
 # hello-world
+My name is Brian Laich, and I am a computer science teacher at Massabesic High School. I currently am studying C#, Unity, HTML, CSS, Javascript, Java,Python,and Jupyter Notebooks. I like using perl to pull webcomcis from websites in their release date order. I also work in Arduino and Microbits/Raspberry Pi. I  enjoy designing PC Builds that are very overclockable, and currently have my 2080ti set to 2150 MHz. 
